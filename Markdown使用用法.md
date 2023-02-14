@@ -2,6 +2,8 @@
 - [语法](#语法)
   - [标题](#标题)
   - [字体](#字体)
+  - [字体效果](#字体效果)
+  - [背景色](#背景色)
   - [代码块](#代码块)
   - [分割线](#分割线)
   - [列表](#列表)
@@ -48,7 +50,44 @@
     删除线:
         ~~这是删除线~~
     下划线:
-        <u>上的</u>
+        <u>这是下划线</u>
+    居中:
+        <center>居中</center>
+    左对齐:
+        <p align="left">左对齐</p>
+    右对齐:
+        <p align="right">右对齐</p>
+
+## 字体效果
+    <font face="黑体">我是黑体字</font>
+<font face="黑体">我是黑体字</font>
+
+    <font face="微软雅黑">我是微软雅黑</font>
+<font face="微软雅黑">我是微软雅黑</font>
+
+    <font face="STCAIYUN">我是华文彩云</font>
+<font face="STCAIYUN">我是华文彩云</font>
+
+    <font color=red>我是红色</font>
+<font color=red>我是红色</font>
+
+    <font color=#008000>我是绿色</font>
+<font color=#008000>我是绿色</font>
+
+    <font color=Blue>我是蓝色</font>
+<font color=Blue>我是蓝色</font>
+
+    <font size=5>我是尺寸</font>
+<font size=5>我是尺寸</font>
+
+    <font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
+<font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
+
+## 背景色
+    <table><tr><td bgcolor=yellow>背景色yellow</td></tr></table>
+<table><tr><td bgcolor=yellow>背景色yellow</td></tr></table>
+
+
 ## 代码块
     法一:
         `这里时代码`
@@ -102,7 +141,7 @@
     | 单元格  | 单元格 |
     | 单元格  | 单元格 |
 
-==***效果如下***==: 
+***效果如下***: 
 
 | 表头一 | 表头二 | 表头三 |  
 | :-----| ----: | :----: |
@@ -115,5 +154,6 @@
 | 单元格  | 单元格 |
 ## Markdown 高亮
     ==高亮==
+==我是高亮==
 ## LaTex插入
     $ 公式 $
