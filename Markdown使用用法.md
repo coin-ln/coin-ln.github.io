@@ -3,6 +3,8 @@
   - [标题](#标题)
   - [字体](#字体)
   - [字体效果](#字体效果)
+  - [缩进和空格](#缩进和空格)
+  - [空白行](#空白行)
   - [背景色](#背景色)
   - [代码块](#代码块)
   - [分割线](#分割线)
@@ -59,29 +61,19 @@
         <p align="right">右对齐</p>
 
 ## 字体效果
-    <font face="黑体">我是黑体字</font>
-<font face="黑体">我是黑体字</font>
+    <font color="" size=6 face="">字体颜色、大小、字体类型</font>
+<font color="red" size=2 face="宋体">字体颜色、大小、字体类型</font>
 
-    <font face="微软雅黑">我是微软雅黑</font>
-<font face="微软雅黑">我是微软雅黑</font>
+## 缩进和空格
+    &ensp;：输入一个空格
+    &nbsp;：输入一个空格
+    &emsp;：输入两个空格
 
-    <font face="STCAIYUN">我是华文彩云</font>
-<font face="STCAIYUN">我是华文彩云</font>
+## 空白行
+以下两种皆可:
 
-    <font color=red>我是红色</font>
-<font color=red>我是红色</font>
-
-    <font color=#008000>我是绿色</font>
-<font color=#008000>我是绿色</font>
-
-    <font color=Blue>我是蓝色</font>
-<font color=Blue>我是蓝色</font>
-
-    <font size=5>我是尺寸</font>
-<font size=5>我是尺寸</font>
-
-    <font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
-<font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
+    <p></p>
+    <div></div> 
 
 ## 背景色
     <table><tr><td bgcolor=yellow>背景色yellow</td></tr></table>
@@ -157,3 +149,4 @@
 ==我是高亮==
 ## LaTex插入
     $ 公式 $
+    $$ 公式居中 $$
