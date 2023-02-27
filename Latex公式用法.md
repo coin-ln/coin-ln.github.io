@@ -1,9 +1,13 @@
 # Latex 公式大全
 ## 运算符号  
 **\times表示乘号**
-$ a\timesb $  
+$ {a}\times {b} $  
 
-`a\timesb`  
+`{a}\times{b}`  
+
+$\left\{这是花括号\right\}$   
+
+`$\left\{这是花括号\right\}$`  
 
 **/quad 或/qquad表示空格**
 ## 行内公式
