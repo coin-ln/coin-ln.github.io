@@ -3,19 +3,22 @@
 
 **\times表示乘号**  
 
-$ {a}\times {b} $  
+$$ {a} \times {b} $$  
 
-`{a}\times{b}`  
+`{a} \times {b}`   
 
-$\left\{这是花括号\right\}$   
+$$ \left\\{   a=b \right\\} $$  
 
-`$\left\{这是花括号\right\}$`  
+`$$ \left\\{   a=b \right\\} $$` markdown in github  
+
+`$$ \left\{   a=b \right\} $$` markdonw in ipynb  
+
 
 **/quad 或/qquad表示空格**   
 
 ## 行内公式
 
-$ f(x)=a+b $  
+这是行内公式 $ f(x)=a+b $  
 
 ` $ f(x)=a+b $ `  
 
