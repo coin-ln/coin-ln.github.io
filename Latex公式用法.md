@@ -1,4 +1,10 @@
 # Latex 公式大全
+## 运算符号  
+**\times表示乘号**
+$ a\timesb $  
+
+`a\timesb`  
+
 **/quad 或/qquad表示空格**
 ## 行内公式
 
