@@ -16,6 +16,47 @@ $$ \left\\{   a=b \right\\} $$
 
 **/quad 或/qquad表示空格**   
 
+|  数字字符   |  输入  |  数字字符   |  输入  |
+| ---- | ----  | ---- | ---- |
+|$\pm$|\pm|$\times$|\times|
+|$\div$|\div|$\mid$|\mid|
+|$\nmid$|\nmid|$\cdot$|\cdot|
+|$\circ$|\circ|$\ast$|\ast|
+|$\bigodot$|\bigodot|$\bigotimes$|\bigotimes|
+|$\bigoplus$|\bigoplus|$\leq$|\leq|
+|$\geq$|\geq|$\neq$|\neq|
+|$\approx$|\approx|$\equiv$|\equiv|
+|$\sum$|\sum|$\prod$|\prod|
+|$\coprod$|\coprod|$\emptyset$|\emptyset|
+|$\in$|\in|$\notin$|\notin|
+|$	\subset$|	\subset|$	\supset$|	\supset|
+|$	\subseteq$|	\subseteq|$\supseteq$|\supseteq|
+|$	\bigcap$|	\bigcap|$\bigcup$|\bigcup|
+|$\bigvee$|\bigvee|$\bigwedge$|\bigwedge|
+|$\biguplus$|\biguplus|$\bigsqcup$|\bigsqcup|
+|$\log$|\log|$	\lg$|	\lg|
+|$	\ln$|	\ln|$\bot$|\bot|
+|$	\angle$|	\angle|$30 ^ \circ$|30 ^ \circ|
+|$	\sin$|	\sin|$\cos$|\cos|
+|$\tan$|\tan|$\cot$|\cot|
+|$\prime$|\prime|$\int$|\int|
+|$\iint$|\iint|$\iiint$|\iiint|
+|$\iiiint$|\iiiint|$\oint$|\oint|
+|$\lim$|\lim|$infty$|infty|
+|$\nabla$|\nabla|$\because$|\because|
+|$\therefore$|\therefore|$\forall$|\forall|
+|$\exists$|\exists|$\not=$|\not=|
+|$\not>$|\not>|$\not\subset$|\not\subset|
+|$\hat{y}$|\hat|$\check{y}$|\check|
+|$\breve{y}$|\breve|$\sec$|\sec|
+|$\uparrow$|\uparrow|$\downarrow$|\downarrow|
+|$\Uparrow$|\Uparrow|$\Downarrow$|\Downarrow|
+|$\rightarrow$|\rightarrow|$\leftarrow$|\leftarrow|
+|$\Rightarrow$|\Rightarrow|$\Leftarrow$|\Leftarrow|
+|$\longrightarrow$|\longrightarrow|$\longleftarrow$|\longleftarrow|
+|$\Longrightarrow$|\Longrightarrow|$\Longleftarrow$|\Longleftarrow|
+|$\quad$|\quad|$ \# $|\#|
+
 ## 行内公式
 
 这是行内公式 $ f(x)=a+b $  
