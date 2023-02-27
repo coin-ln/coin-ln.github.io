@@ -29,16 +29,16 @@ $$ \left\\{   a=b \right\\} $$
 |$\sum$|\sum|$\prod$|\prod|
 |$\coprod$|\coprod|$\emptyset$|\emptyset|
 |$\in$|\in|$\notin$|\notin|
-|$	\subset$|	\subset|$	\supset$|	\supset|
-|$	\subseteq$|	\subseteq|$\supseteq$|\supseteq|
-|$	\bigcap$|	\bigcap|$\bigcup$|\bigcup|
+|$\subset$|\subset|$\supset$|\supset|
+|$\subseteq$|\subseteq|$\supseteq$|\supseteq|
+|$\bigcap$|\bigcap|$\bigcup$|\bigcup|
 |$\bigvee$|\bigvee|$\bigwedge$|\bigwedge|
 |$\biguplus$|\biguplus|$\bigsqcup$|\bigsqcup|
-|$\log$|\log|$	\lg$|	\lg|
-|$	\ln$|	\ln|$\bot$|\bot|
-|$	\angle$|	\angle|$30 ^ \circ$|30 ^ \circ|
-|$	\sin$|	\sin|$\cos$|\cos|
-|$\tan$|\tan|$\cot$|\cot|
+|$\log$|\log|$\lg$|\lg|
+|$\ln$|\ln|$\bot$|\bot|
+|$\angle$|\angle|$30 ^ \circ$|30 ^ \circ|
+|$\sin{x}$|	\sin{x}|$\cos{x}$|\cos|
+|$\tan{x}$|\tan{x}|$\cot{x}$|\cot{x}|
 |$\prime$|\prime|$\int$|\int|
 |$\iint$|\iint|$\iiint$|\iiint|
 |$\iiiint$|\iiiint|$\oint$|\oint|
@@ -47,15 +47,15 @@ $$ \left\\{   a=b \right\\} $$
 |$\therefore$|\therefore|$\forall$|\forall|
 |$\exists$|\exists|$\not=$|\not=|
 |$\not>$|\not>|$\not\subset$|\not\subset|
-|$\hat{y}$|\hat|$\check{y}$|\check|
-|$\breve{y}$|\breve|$\sec$|\sec|
+|$\hat{y}$|\hat{y}|$\check{y}$|\check{y}|
+|$\breve{y}$|\breve{y}|$\sec{y}$|\sec{y}|
 |$\uparrow$|\uparrow|$\downarrow$|\downarrow|
 |$\Uparrow$|\Uparrow|$\Downarrow$|\Downarrow|
 |$\rightarrow$|\rightarrow|$\leftarrow$|\leftarrow|
 |$\Rightarrow$|\Rightarrow|$\Leftarrow$|\Leftarrow|
 |$\longrightarrow$|\longrightarrow|$\longleftarrow$|\longleftarrow|
 |$\Longrightarrow$|\Longrightarrow|$\Longleftarrow$|\Longleftarrow|
-|$\quad$|\quad|$ \# $|\#|
+|$\quad$|\quad|||
 
 ## 行内公式
 
